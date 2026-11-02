@@ -22,6 +22,22 @@
           }
         },
         {
+          "client_id": "677522227557-nl0612jm7eptu7u2u6ihgdpdm1jf6tc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "now.thedate.save",
+            "certificate_hash": "d9e5f25e85a9f5bc928af676f6d2331abdac435d"
+          }
+        },
+        {
+          "client_id": "677522227557-r33e62d24ee9o8j6dh6rfpd0naa749bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "now.thedate.save",
+            "certificate_hash": "43f6bf139070e03105a2ebed267327908fd7bb13"
+          }
+        },
+        {
           "client_id": "677522227557-t9lm5ngbm64duf7oacnfeultcubarhb6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -45,6 +61,13 @@
             {
               "client_id": "677522227557-7qv2i5tmu421gjjv1hpvbvjsctn9rokk.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "677522227557-2bmi8o2imbu61t0cila86pdabjens585.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "now.thedate.save"
+              }
             }
           ]
         }

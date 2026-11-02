@@ -1,0 +1,75 @@
+{
+  "project": "save-the-date-b7670",
+  "bundleId": "now.thedate.save",
+  "androidAppId": "1:677522227557:android:70dc664d54cb1789d4a18c",
+  "iosAppId": "1:677522227557:ios:d61c7faeeab4d4a6d4a18c",
+  "androidFingerprints": [
+    {
+      "name": "projects/save-the-date-b7670/androidApps/1:677522227557:android:70dc664d54cb1789d4a18c/sha/2b2ca4f53655ec9f",
+      "shaHash": "c8b76a54884058b707e12b58a604b9394b848967",
+      "certType": "SHA_1"
+    },
+    {
+      "name": "projects/save-the-date-b7670/androidApps/1:677522227557:android:70dc664d54cb1789d4a18c/sha/a919fa44875992a9",
+      "shaHash": "b50dd82b661ecf84596d2f37af3a06b7c84c606f",
+      "certType": "SHA_1"
+    },
+    {
+      "name": "projects/save-the-date-b7670/androidApps/1:677522227557:android:70dc664d54cb1789d4a18c/sha/d237f8ce4006bb58",
+      "shaHash": "d9e5f25e85a9f5bc928af676f6d2331abdac435d",
+      "certType": "SHA_1"
+    },
+    {
+      "name": "projects/save-the-date-b7670/androidApps/1:677522227557:android:70dc664d54cb1789d4a18c/sha/522653a02313024b",
+      "shaHash": "43f6bf139070e03105a2ebed267327908fd7bb13",
+      "certType": "SHA_1"
+    },
+    {
+      "name": "projects/save-the-date-b7670/androidApps/1:677522227557:android:70dc664d54cb1789d4a18c/sha/3ec763c42a80dffb",
+      "shaHash": "217ff5d73e40c6eefb0f1089fff0f318cb770366455417e8ed12f6603e75f72d",
+      "certType": "SHA_256"
+    },
+    {
+      "name": "projects/save-the-date-b7670/androidApps/1:677522227557:android:70dc664d54cb1789d4a18c/sha/3185e089d7ebe309",
+      "shaHash": "141493a1309d3f8feb4f09467f055d526a7ed89bfde5de3172a01b66a7839b0c",
+      "certType": "SHA_256"
+    },
+    {
+      "name": "projects/save-the-date-b7670/androidApps/1:677522227557:android:70dc664d54cb1789d4a18c/sha/448513827c59a6ea",
+      "shaHash": "4dd097cdc63b78ade971a9086f89f2f74f99419c",
+      "certType": "SHA_1"
+    },
+    {
+      "name": "projects/save-the-date-b7670/androidApps/1:677522227557:android:70dc664d54cb1789d4a18c/sha/ffc66634dc3d33da",
+      "shaHash": "7d155082a26f5d12772a306d19367e823018519d335248420fa9be5e7b73740e",
+      "certType": "SHA_256"
+    }
+  ],
+  "appleRegistration": "registered with push notifications capability via Apple Developer portal",
+  "googleProviderEnabled": true,
+  "apns": {
+    "developmentKeyId": "6245F4J89H",
+    "productionKeyId": "6WG333UKYM",
+    "uploadedToFirebase": true
+  },
+  "appleBundleResourceId": "G8YBGPH332",
+  "pushCapabilityVerified": true,
+  "firebaseGoogleProviderClientId": "677522227557-7qv2i5tmu421gjjv1hpvbvjsctn9rokk.apps.googleusercontent.com",
+  "googleServerClientId": "677522227557-7qv2i5tmu421gjjv1hpvbvjsctn9rokk.apps.googleusercontent.com",
+  "appleTeamId": "9BZKHZM3ZB",
+  "playAppSigning": "pending first Play upload",
+  "iosBuild": "not performed",
+  "realDeviceLoginAndDelivery": "not performed",
+  "validation": {
+    "dartFormat": "passed",
+    "flutterAnalyze": "passed",
+    "flutterTests": 9,
+    "androidReleaseApk": "built on Windows; APK signature matches registered upload SHA-1 and SHA-256",
+    "iosNativeSettings": "plist syntax and Linux toolchain Xcode settings parser passed",
+    "deviceTests": "pending"
+  },
+  "playSigning": {
+    "sha1": "4DD097CDC63B78ADE971A9086F89F2F74F99419C",
+    "sha256": "7D155082A26F5D12772A306D19367E823018519D335248420FA9BE5E7B73740E"
+  }
+}

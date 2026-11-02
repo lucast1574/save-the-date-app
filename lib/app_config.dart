@@ -12,9 +12,9 @@ abstract final class AppConfig {
         '677522227557-7qv2i5tmu421gjjv1hpvbvjsctn9rokk.apps.googleusercontent.com',
   );
   static const headingFont = 'Cormorant Garamond';
-  static const loginTitle = 'Vuestra boda,\nsin tanto ruido.';
-  static const homeTitle = 'Vuestra gente.';
-  static const giftsTitle = 'Pequeños detalles,\nmucho cariño.';
+  static const loginTitle = 'Lo importante, cerca.';
+  static const homeTitle = 'Tu gente.';
+  static const giftsTitle = 'Detalles con cariño.';
   static const accent = Color(0xFFA76F51),
       paper = Color(0xFFFAF6F0),
       ink = Color(0xFF302720),

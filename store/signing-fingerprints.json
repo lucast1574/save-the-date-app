@@ -3,7 +3,15 @@
     "sha1": "C8:B7:6A:54:88:40:58:B7:07:E1:2B:58:A6:04:B9:39:4B:84:89:67"
   },
   "upload": {
+    "sha1": "43:F6:BF:13:90:70:E0:31:05:A2:EB:ED:26:73:27:90:8F:D7:BB:13",
+    "sha256": "14:14:93:A1:30:9D:3F:8F:EB:4F:09:46:7F:05:5D:52:6A:7E:D8:9B:FD:E5:DE:31:72:A0:1B:66:A7:83:9B:0C"
+  },
+  "playAppSigning": null,
+  "legacyUpload": {
     "sha1": "B5:0D:D8:2B:66:1E:CF:84:59:6D:2F:37:AF:3A:06:B7:C8:4C:60:6F"
   },
-  "playAppSigning": null
+  "debugWindows": {
+    "sha1": "D9:E5:F2:5E:85:A9:F5:BC:92:8A:F6:76:F6:D2:33:1A:BD:AC:43:5D",
+    "sha256": "21:7F:F5:D7:3E:40:C6:EE:FB:0F:10:89:FF:F0:F3:18:CB:77:03:66:45:54:17:E8:ED:12:F6:60:3E:75:F7:2D"
+  }
 }
