@@ -1,3 +1,4 @@
+import 'l10n/translate.dart';
 import 'package:flutter/material.dart';
 
 abstract final class AppConfig {
@@ -5,7 +6,7 @@ abstract final class AppConfig {
   static const product = 'wedding';
   static const api = 'https://api.thedate.now/products/wedding';
   static const website = 'https://save.thedate.now';
-  static const version = '2.0.0';
+  static const version = '2.1.0';
   static const supportUrl = '$website/soporte';
   static const deletionUrl = 'https://studio.save.thedate.now/delete-account';
   static const support = 'lucasraulsantillanarevalo@gmail.com';
@@ -15,9 +16,9 @@ abstract final class AppConfig {
         '677522227557-7qv2i5tmu421gjjv1hpvbvjsctn9rokk.apps.googleusercontent.com',
   );
   static const headingFont = 'Cormorant Garamond';
-  static const loginTitle = 'Lo importante, cerca.';
-  static const homeTitle = 'Tu gente.';
-  static const giftsTitle = 'Detalles con cariño.';
+  static String get loginTitle => tr("Lo importante, cerca.");
+  static String get homeTitle => tr("Tu gente.");
+  static String get giftsTitle => tr("Detalles con cariño.");
   static const accent = Color(0xFF7D4934),
       paper = Color(0xFFFFFFFF),
       ink = Color(0xFF302720),
